@@ -1,8 +1,10 @@
-# `tap-hubspot`
+# `tap-hubspot--russellromney`
 
 tap-hubspot is a Singer tap for Hubspot.
 
 Built with the [Meltano Singer SDK](https://sdk.meltano.com).
+
+Uses `lastmodifieddate` instead of `hs_lastmodifieddate` as the replication key.
 
 ## Capabilities
 
