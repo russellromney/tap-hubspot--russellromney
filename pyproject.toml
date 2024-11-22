@@ -1,9 +1,9 @@
 [tool.poetry]
-name = "meltano-tap-hubspot"
+name = "tap-hubspot--russellromney"
 version = "0.0.0"
 description = "`tap-hubspot` is a Singer tap for tap-hubspot, built with the Meltano Singer SDK."
 readme = "README.md"
-authors = ["Ethan Stein"]
+authors = ["Ethan Stein","Russell Romney"]
 keywords = [
     "ELT",
     "tap-hubspot",
